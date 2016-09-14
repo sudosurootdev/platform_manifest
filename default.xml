@@ -284,6 +284,7 @@
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" groups="pdk-fs" remote="vanir" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" groups="pdk-fs" />
   <project path="packages/apps/EmergencyInfo" name="CyanogenMod/android_packages_apps_EmergencyInfo" />
+  <project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gello" name="CyanogenMod/android_packages_apps_Gello" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" groups="pdk-fs" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vanir" />
