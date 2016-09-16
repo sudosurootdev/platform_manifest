@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="vendor/asus" name="vendor_asus" remote="vanir" groups="vendor" />
-  <project path="vendor/commotio" name="commotio" remote="commotio" revision="6" groups="vendor" />
+  <project path="vendor/commotio" name="commotio" remote="commotio" groups="vendor" />
   <project path="vendor/htc" name="vendor_htc" remote="vanir" />
   <project path="vendor/huawei" name="vendor_huawei" remote="vanir" />
   <project path="vendor/lge" name="vendor_lge" remote="vanir" />
