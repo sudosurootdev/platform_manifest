@@ -79,7 +79,6 @@
   <project path="external/libnfc-nci" name="external_libnfc-nci" groups="pdk" remote="vanir" />
   <project path="external/libvpx" name="external_libvpx" groups="pdk" remote="vanir" />
   <project path="external/lzma" name="external_lzma" groups="pdk" remote="vanir" />
-  <project path="external/sonivox" name="external_sonivox" groups="pdk" remote="vanir" />
   <project path="frameworks/minikin" name="frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
   <project path="frameworks/opt/chips" name="frameworks_opt_chips" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
   <project path="frameworks/opt/colorpicker" name="frameworks_opt_colorpicker" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
