@@ -24,7 +24,7 @@
           fetch="http://android.git.linaro.org/git-ro/" />
   <remote name="samba"
           fetch="git://git.samba.org/" />
-  <default revision="staging/cm-14.0"
+  <default revision="cm-14.0"
           sync-j="12"
           remote="cm" />
 

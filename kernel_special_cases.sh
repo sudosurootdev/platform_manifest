@@ -35,31 +35,31 @@ case $1 in
     ;;
     find5)
         export remote="vanir"
-        export remoterevision="m6"
+        export remoterevision="n7"
         export kernelsource="kernel_oppo_n1"
     ;;
     fugu)
         export remote="vanir"
-        export remoterevision="m6"
+        export remoterevision="n7"
         export kernelsource="kernel_asus_fugu"
     ;;
     i9100)
         export remote="vanir"
-        export remoterevision="m6"
+        export remoterevision="n7"
         export kernelsource="kernel_samsung_smdk4412"
     ;;
     jf*)
         export remote="vanir"
-        export remoterevision="m6"
+        export remoterevision="n7"
         export kernelsource="kernel_samsung_jf"
     ;;
     klte*)
         export remote="vanir"
-        export remoterevision="m6"
+        export remoterevision="n7"
         export kernelsource="kernel_samsung_klte"
     ;;
     lettuce|tomato)
-        export remoterevision="staging/cm-13.0-lettuce"
+        export remoterevision="cm-14.0-lettuce"
     ;;
     mako)
         export kernelsource="lge-kernel-mako"
@@ -67,11 +67,11 @@ case $1 in
     oneplus2)
         export remote="github"
         export kernelsource="Grarak/android_kernel_oneplus_msm8994"
-        export remoterevision="cm-13.0"
+        export remoterevision="cm-14.0"
     ;;
     shamu)
         export remote="vanir"
-        export remoterevision="m6"
+        export remoterevision="n7"
         export kernelsource="kernel_moto_shamu"
     ;;
 esac
