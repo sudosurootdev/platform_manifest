@@ -4,11 +4,11 @@
   <project path="device/asus/flo" name="device_asus_flo" remote="vanir" />
   <project path="device/asus/fugu" name="device_asus_fugu" remote="vanir"/>
   <project path="device/cyanogen/msm8916-common" name="CyanogenMod/android_device_cyanogen_msm8916-common" />
-  <project path="device/cyanogen/msm8939-common" name="CyanogenMod/android_device_cyanogen_msm8939-common" />
+<!--  <project path="device/cyanogen/msm8939-common" name="CyanogenMod/android_device_cyanogen_msm8939-common" /> -->
   <project path="device/google/sprout4" name="CyanogenMod/android_device_google_sprout4" />
   <project path="device/google/sprout8" name="CyanogenMod/android_device_google_sprout8" />
   <project path="device/google/sprout-common" name="CyanogenMod/android_device_google_sprout-common" />
-  <project path="device/htc/evita" name="CyanogenMod/android_device_htc_evita" />
+<!--  <project path="device/htc/evita" name="CyanogenMod/android_device_htc_evita" /> -->
   <project path="device/htc/flounder" name="device_htc_flounder" remote="vanir"/>
   <project path="device/htc/hiae-common" name="CyanogenMod/android_device_htc_hiae-common" />
   <project path="device/htc/hiaeul" name="CyanogenMod/android_device_htc_hiaeul" />
@@ -16,8 +16,8 @@
   <project path="device/htc/hima-common" name="CyanogenMod/android_device_htc_hima-common" />
   <project path="device/htc/himaul" name="CyanogenMod/android_device_htc_himaul" />
   <project path="device/htc/himawl" name="CyanogenMod/android_device_htc_himawl" />
-  <project path="device/htc/himawhl" name="CyanogenMod/android_device_htc_himawhl" />
-  <project path="device/htc/jewel" name="CyanogenMod/android_device_htc_jewel" />
+<!--  <project path="device/htc/himawhl" name="CyanogenMod/android_device_htc_himawhl" /> -->
+<!--  <project path="device/htc/jewel" name="CyanogenMod/android_device_htc_jewel" /> -->
   <project path="device/htc/m7" name="device_htc_m7" remote="vanir" />
   <project path="device/htc/m7-common" name="device_htc_m7-common" remote="vanir" />
   <project path="device/htc/m7spr" name="device_htc_m7spr" remote="vanir" />
@@ -30,7 +30,7 @@
   <project path="device/htc/s4-common" name="device_htc_s4-common" remote="vanir" />
   <project path="device/htc/ville" name="CyanogenMod/android_device_htc_ville" />
   <project path="device/huawei/angler" name="device_huawei_angler" remote="vanir" />
-  <project path="device/huawei/kiwi" name="CyanogenMod/android_device_huawei_kiwi" />
+<!--  <project path="device/huawei/kiwi" name="CyanogenMod/android_device_huawei_kiwi" /> -->
   <project path="device/lge/bullhead" name="device_lge_bullhead" remote="vanir" />
   <project path="device/lge/d800" name="device_lge_d800" remote="vanir" />
   <project path="device/lge/d801" name="device_lge_d801" remote="vanir" />
@@ -51,14 +51,14 @@
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="vanir" />
   <project path="device/lge/ls980" name="device_lge_ls980" remote="vanir" />
   <project path="device/lge/ls990" name="CyanogenMod/android_device_lge_ls990" />
-  <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" />
+<!--  <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" /> -->
   <project path="device/lge/v10-common" name="CyanogenMod/android_device_lge_v10-common" device="h901" />
   <project path="device/lge/vs980" name="device_lge_vs980" remote="vanir" />
   <project path="device/lge/vs985" name="device_lge_vs985" remote="vanir" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="vanir" />
   <project path="device/motorola/condor" name="CyanogenMod/android_device_motorola_condor" />
   <project path="device/motorola/falcon" name="device_motorola_falcon" remote="vanir" />
-  <project path="device/motorola/lux" name="CyanogenMod/android_device_motorola_lux" />
+<!--  <project path="device/motorola/lux" name="CyanogenMod/android_device_motorola_lux" /> -->
   <project path="device/motorola/maserati" name="CyanogenMod/android_device_motorola_maserati" />
   <project path="device/motorola/msm8916-common" name="device_motorola_msm8916-common" remote="vanir" />
   <project path="device/motorola/msm8226-common" name="device_motorola_msm8226-common" remote="vanir" />
@@ -95,7 +95,7 @@
   <project path="device/samsung/jfltexx" name="device_samsung_jfltexx" remote="vanir" />
   <project path="device/samsung/klte" name="device_samsung_klte" remote="vanir" />
   <project path="device/samsung/klte-common" name="device_samsung_klte-common" remote="vanir" />
-  <project path="device/samsung/kltedv" name="CyanogenMod/android_device_samsung_kltedv" />
+<!--  <project path="device/samsung/kltedv" name="CyanogenMod/android_device_samsung_kltedv" /> -->
   <project path="device/samsung/kltespr" name="CyanogenMod/android_device_samsung_kltespr" />
   <project path="device/samsung/kltevzw" name="device_samsung_kltevzw" remote="vanir" />
   <project path="device/samsung/kona-common" name="device_samsung_kona-common" remote="vanir" />
@@ -114,7 +114,7 @@
   <project path="device/sony/amami" name="CyanogenMod/android_device_sony_amami" />
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" />
   <project path="device/sony/fusion3-common" name="device_sony_fusion3-common" remote="vanir" />
-  <project path="device/sony/honami" name="CyanogenMod/android_device_sony_honami" />
+<!--  <project path="device/sony/honami" name="CyanogenMod/android_device_sony_honami" /> -->
   <project path="device/sony/msm8974-common" name="CyanogenMod/android_device_sony_msm8974-common" />
   <project path="device/sony/nicki" name="CyanogenMod/android_device_sony_nicki" />
   <project path="device/sony/pollux" name="device_sony_pollux" remote="vanir" />
@@ -122,9 +122,9 @@
   <project path="device/sony/pollux_windy" name="CyanogenMod/android_device_sony_pollux_windy" />
   <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" />
   <project path="device/sony/shinano-common" name="CyanogenMod/android_device_sony_shinano-common" device="shinano" />
-  <project path="device/sony/sirius" name="CyanogenMod/android_device_sony_sirius" device="shinano" />
-  <project path="device/sony/taoshan" name="CyanogenMod/android_device_sony_taoshan" />
-  <project path="device/sony/togari" name="CyanogenMod/android_device_sony_togari" />
+<!--  <project path="device/sony/sirius" name="CyanogenMod/android_device_sony_sirius" device="shinano" /> -->
+<!--  <project path="device/sony/taoshan" name="CyanogenMod/android_device_sony_taoshan" /> -->
+<!--  <project path="device/sony/togari" name="CyanogenMod/android_device_sony_togari" /> -->
   <project path="device/sony/yuga" name="device_sony_yuga" remote="vanir" />
   <project path="device/xiaomi/armani" name="device_xiaomi_armani" remote="vanir" />
   <project path="device/xiaomi/cancro" name="device_xiaomi_cancro" remote="vanir" />
