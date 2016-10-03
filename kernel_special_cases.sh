@@ -17,12 +17,8 @@ case $1 in
     ;;
     bacon)
         export remote="github"
-	export remoterevision="n7"
+        export remoterevision="n7"
         export kernelsource="ejjohnson1999/kernel_oneplus_msm8974"
-    ;;
-    bullhead)
-        export remote="github"
-        export kernelsource="wyldstallyns/nighthawk_kernel_bullhead"
     ;;
     cancro)
         export remote="github"
@@ -42,21 +38,6 @@ case $1 in
         export remote="vanir"
         export remoterevision="n7"
         export kernelsource="kernel_asus_fugu"
-    ;;
-    i9100)
-        export remote="vanir"
-        export remoterevision="n7"
-        export kernelsource="kernel_samsung_smdk4412"
-    ;;
-    jf*)
-        export remote="vanir"
-        export remoterevision="n7"
-        export kernelsource="kernel_samsung_jf"
-    ;;
-    klte*)
-        export remote="vanir"
-        export remoterevision="n7"
-        export kernelsource="kernel_samsung_klte"
     ;;
     lettuce|tomato)
         export remoterevision="cm-14.0-lettuce"
