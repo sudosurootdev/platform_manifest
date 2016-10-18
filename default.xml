@@ -343,7 +343,7 @@
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device" remote="aosp" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
+  <project path="external/aac" name="CyanogenMod/android_external_aac" groups="pdk" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -378,7 +378,7 @@
   <project path="external/dhcpcd-6.8.2" name="platform/external/dhcpcd-6.8.2" remote="aosp" />
   <project path="external/dlmalloc" name="platform/external/dlmalloc" remote="aosp" />
   <project path="external/dng_sdk" name="platform/external/dng_sdk" remote="aosp" />
-  <project path="external/doclava" name="external_doclava" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
+  <project path="external/doclava" name="platform/external/doclava" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/donuts" name="platform/external/donuts" groups="pdk-fs" remote="aosp" />
   <project path="external/drm_gralloc" name="platform/external/drm_gralloc" groups="drm_gralloc" remote="aosp" />
   <project path="external/droiddriver" name="platform/external/droiddriver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -445,7 +445,7 @@
   <project path="external/libevent" name="platform/external/libevent" remote="aosp" />
   <project path="external/libexif" name="platform/external/libexif" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" remote="aosp" />
-  <project path="external/libhevc" name="platform/external/libhevc" groups="pdk-fs" remote="aosp" />
+  <project path="external/libhevc" name="CyanogenMod/android_external_libhevc" groups="pdk-fs" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" groups="pdk" remote="aosp" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" />
   <project path="external/libmicrohttpd" name="platform/external/libmicrohttpd" remote="aosp" />
