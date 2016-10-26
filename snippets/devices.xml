@@ -3,8 +3,6 @@
   <project path="device/asus/deb" name="device_asus_deb" remote="vanir" />
   <project path="device/asus/flo" name="device_asus_flo" remote="vanir" />
   <project path="device/asus/fugu" name="device_asus_fugu" remote="vanir"/>
-  <project path="device/cyanogen/msm8916-common" name="CyanogenMod/android_device_cyanogen_msm8916-common" />
-<!--  <project path="device/cyanogen/msm8939-common" name="CyanogenMod/android_device_cyanogen_msm8939-common" /> -->
   <project path="device/google/sprout4" name="CyanogenMod/android_device_google_sprout4" />
   <project path="device/google/sprout8" name="CyanogenMod/android_device_google_sprout8" />
   <project path="device/google/sprout-common" name="CyanogenMod/android_device_google_sprout-common" />
@@ -128,8 +126,6 @@
   <project path="device/sony/yuga" name="device_sony_yuga" remote="vanir" />
   <project path="device/xiaomi/armani" name="device_xiaomi_armani" remote="vanir" />
   <project path="device/xiaomi/cancro" name="device_xiaomi_cancro" remote="vanir" />
-  <project path="device/yu/lettuce" name="device_yu_lettuce" remote="vanir" />
-  <project path="device/yu/tomato" name="CyanogenMod/android_device_yu_tomato" />
 
 
   <project path="vendor/nxp-nfc/opensource/frameworks" name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" device="oneplus3" />
