@@ -8,7 +8,7 @@ export remoterevision="cm-14.1"
 case $1 in
     angler)
         export remote="vanir"
-        export remoterevision="n7"
+        export remoterevision="n71"
         export kernelsource="kernel_huawei_angler"
     ;;
     armani)
@@ -17,7 +17,7 @@ case $1 in
     ;;
     bacon)
         export remote="github"
-        export remoterevision="n7"
+        export remoterevision="n71"
         export kernelsource="ejjohnson1999/kernel_oneplus_msm8974"
     ;;
     cancro)
@@ -26,17 +26,17 @@ case $1 in
     ;;
     d800|d801|d802|d803|f320|ls980|vs980)
         export remote="vanir"
-        export remoterevision="n7"
+        export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
     find5)
         export remote="vanir"
-        export remoterevision="n7"
+        export remoterevision="n71"
         export kernelsource="kernel_oppo_n1"
     ;;
     fugu)
         export remote="vanir"
-        export remoterevision="n7"
+        export remoterevision="n71"
         export kernelsource="kernel_asus_fugu"
     ;;
     lettuce|tomato)
@@ -52,7 +52,7 @@ case $1 in
     ;;
     shamu)
         export remote="vanir"
-        export remoterevision="n7"
+        export remoterevision="n71"
         export kernelsource="kernel_moto_shamu"
     ;;
 esac

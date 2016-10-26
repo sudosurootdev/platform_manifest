@@ -4,7 +4,7 @@
   <remote name="vanir"
           fetch="https://github.com/VanirAOSP/"
           review="gerrit.vanir.co:7070"
-          revision="n7" />
+          revision="n71" />
   <remote name="commotio"
           fetch="https://github.com/DHOMD/"
           review="gerrit.vanir.co:7070"
