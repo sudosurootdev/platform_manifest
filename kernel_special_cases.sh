@@ -3,7 +3,7 @@
 
 ## all non-specified kernels are assumed to be from CyanogenMod
 export remote="cmold"
-export remoterevision="cm-14.0"
+export remoterevision="cm-14.1"
 
 case $1 in
     angler)
@@ -40,7 +40,7 @@ case $1 in
         export kernelsource="kernel_asus_fugu"
     ;;
     lettuce|tomato)
-        export remoterevision="cm-14.0-lettuce"
+        export remoterevision="cm-14.1-lettuce"
     ;;
     mako)
         export kernelsource="lge-kernel-mako"
@@ -48,7 +48,7 @@ case $1 in
     oneplus2)
         export remote="github"
         export kernelsource="Grarak/android_kernel_oneplus_msm8994"
-        export remoterevision="cm-14.0"
+        export remoterevision="cm-14.1"
     ;;
     shamu)
         export remote="vanir"
