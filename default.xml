@@ -151,11 +151,11 @@
   <project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" />
   <project path="hardware/sony/timekeep" name="CyanogenMod/android_hardware_sony_timekeep" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
-  <project path="vendor/qcom/opensource/dataservices" name="CyanogenMod/android_vendor_qcom_opensource_dataservices" />
   -->
 
-  <project path="vendor/qcom/opensource/bluetooth" name="CyanogenMod/android_packages_apps_BluetoothExt" />
   <project path="vendor/codeaurora/telephony" name="CyanogenMod/android_vendor_codeaurora_telephony" />
+  <project path="vendor/qcom/opensource/bluetooth" name="CyanogenMod/android_vendor_qcom_opensource_bluetooth" />
+  <project path="vendor/qcom/opensource/dataservices" name="CyanogenMod/android_vendor_qcom_opensource_dataservices" />
 
 <!-- CM -->
   <project path="abi/cpp" name="abi_cpp" groups="pdk" remote="vanir" />
