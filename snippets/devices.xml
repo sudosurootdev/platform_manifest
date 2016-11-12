@@ -3,8 +3,8 @@
   <project path="device/asus/deb" name="device_asus_deb" remote="vanir" />
   <project path="device/asus/flo" name="device_asus_flo" remote="vanir" />
   <project path="device/asus/fugu" name="device_asus_fugu" remote="vanir"/>
-  <project path="device/google/sprout4" name="CyanogenMod/android_device_google_sprout4" />
-<!--  <project path="device/google/sprout8" name="CyanogenMod/android_device_google_sprout8" />
+<!--  <project path="device/google/sprout4" name="CyanogenMod/android_device_google_sprout4" />
+  <project path="device/google/sprout8" name="CyanogenMod/android_device_google_sprout8" />
   <project path="device/google/sprout-common" name="CyanogenMod/android_device_google_sprout-common" /> -->
   <project path="device/htc/flounder" name="device_htc_flounder" remote="vanir"/>
   <project path="device/htc/hiae-common" name="CyanogenMod/android_device_htc_hiae-common" />
