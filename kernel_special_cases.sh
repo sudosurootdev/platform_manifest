@@ -20,11 +20,6 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="motoG4-Development/kernel_motorola_msm8952"
     ;;
-    bacon)
-        export remote="github"
-        export remoterevision="n71"
-        export kernelsource="ejjohnson1999/kernel_oneplus_msm8974"
-    ;;
     cancro)
         export remote="github"
         export kernelsource="CyanogenMod/android_kernel_xiaomi_cancro"
