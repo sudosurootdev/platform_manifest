@@ -98,6 +98,7 @@
   <project path="device/samsung/smdk4412-qcom-common" name="device_samsung_smdk4412-qcom-common" remote="vanir" groups="device" />
 <!--  <project path="device/samsung/zero-common" name="CyanogenMod/android_device_samsung_zero-common" />
   <project path="device/samsung/zerofltexx" name="CyanogenMod/android_device_samsung_zerofltexx" /> -->
+  <project path="device/sony/amami" name="CyanogenMod/android_device_sony_amami" />
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" />
   <project path="device/sony/fusion3-common" name="device_sony_fusion3-common" remote="vanir" />
   <project path="device/sony/nicki" name="CyanogenMod/android_device_sony_nicki" />
