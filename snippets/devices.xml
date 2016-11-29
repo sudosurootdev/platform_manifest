@@ -11,7 +11,7 @@
   <project path="device/htc/hiaeul" name="CyanogenMod/android_device_htc_hiaeul" />
   <project path="device/htc/hiaeuhl" name="CyanogenMod/android_device_htc_hiaeuhl" />
   <project path="device/htc/hima-common" name="CyanogenMod/android_device_htc_hima-common" />
-<!--  <project path="device/htc/himaul" name="CyanogenMod/android_device_htc_himaul" />  -->
+  <project path="device/htc/himaul" name="CyanogenMod/android_device_htc_himaul" />
   <project path="device/htc/himawl" name="CyanogenMod/android_device_htc_himawl" />
   <project path="device/htc/m7" name="device_htc_m7" remote="vanir" />
   <project path="device/htc/m7-common" name="device_htc_m7-common" remote="vanir" />
@@ -60,7 +60,7 @@
   <project path="device/oneplus/bacon" name="device_oneplus_bacon" device="BACON" remote="vanir" />
   <project path="device/oneplus/oneplus2" name="Grarak/android_device_oneplus_oneplus2" remote="github" />
   <project path="device/oneplus/oneplus3" name="CyanogenMod/android_device_oneplus_oneplus3" />
-<!--  <project path="device/oneplus/onyx" name="AndroidNoob69/android_device_oneplus_onyx" remote="github" device="onyx" />  -->
+  <project path="device/oneplus/onyx" name="AndroidNoob69/android_device_oneplus_onyx" remote="github" device="onyx" />
   <project path="device/oppo/apq8064-common" name="device_oppo_apq8064-common" remote="vanir" device="oppo_find5" />
   <project path="device/oppo/common" name="device_oppo_common" device="find5, oneplus3" remote="vanir" />
   <project path="device/oppo/find5" name="device_oppo_find5" device="find5" remote="vanir" />
@@ -91,8 +91,8 @@
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="vanir" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="vanir" groups="device" />
   <project path="device/samsung/msm8974-common" name="device_samsung_msm8974-common" remote="vanir" groups="device" />
-<!--  <project path="device/samsung/nobleltetmo" name="CyanogenMod/android_device_samsung_nobleltetmo" />
-  <project path="device/samsung/noblelte-common" name="CyanogenMod/android_device_samsung_noblelte-common" /> -->
+  <project path="device/samsung/nobleltetmo" name="CyanogenMod/android_device_samsung_nobleltetmo" />
+  <project path="device/samsung/noblelte-common" name="CyanogenMod/android_device_samsung_noblelte-common" />
   <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="vanir" groups="device" />
   <project path="device/samsung/smdk4412-common" name="device_samsung_smdk4412-common" groups="device" remote="vanir" />
   <project path="device/samsung/smdk4412-qcom-common" name="device_samsung_smdk4412-qcom-common" remote="vanir" groups="device" />
