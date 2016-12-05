@@ -11,18 +11,10 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_huawei_angler"
     ;;
-    armani)
-        export remote="github"
-        export kernelsource="armani-dev/android_kernel_xiaomi_armani"
-    ;;
     athene)
         export remote="github"
         export remoterevision="n71"
         export kernelsource="motoG4-Development/kernel_motorola_msm8952"
-    ;;
-    cancro)
-        export remote="github"
-        export kernelsource="CyanogenMod/android_kernel_xiaomi_cancro"
     ;;
     d800|d801|d802|d803|f320|ls980|vs980)
         export remote="vanir"
