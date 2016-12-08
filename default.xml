@@ -59,6 +59,7 @@
   <project path="hardware/qcom/audio/default" name="hardware_qcom_audio" groups="qcom,qcom_audio" remote="vanir" />
   <project path="hardware/samsung" name="hardware_samsung" remote="vanir" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
+  <project path="packages/apps/CMParts" name="packages_apps_CMParts" remote="vanir" />
   <project path="packages/apps/Email" name="packages_apps_Email" groups="pdk-fs" remote="vanir" />
   <project path="packages/apps/IndecentXposure" name="packages_apps_IndecentXposure" remote="vanir" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="vanir" />
@@ -269,7 +270,6 @@
   <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" groups="pdk-fs" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" groups="pdk-fs" remote="vanir" />
-  <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" groups="pdk-fs" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" remote="aosp" />
   <project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" />
