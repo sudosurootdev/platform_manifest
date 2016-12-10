@@ -3,6 +3,7 @@
   <project path="device/asus/deb" name="device_asus_deb" remote="vanir" />
   <project path="device/asus/flo" name="device_asus_flo" remote="vanir" />
   <project path="device/asus/fugu" name="device_asus_fugu" remote="vanir"/>
+  <project path="device/cyanogen/msm8939-common" name="CyanogenMod/android_device_cyanogen_msm8939-common"/>
 <!--  <project path="device/google/sprout4" name="CyanogenMod/android_device_google_sprout4" />
   <project path="device/google/sprout8" name="CyanogenMod/android_device_google_sprout8" />
   <project path="device/google/sprout-common" name="CyanogenMod/android_device_google_sprout-common" /> -->
@@ -49,6 +50,7 @@
   <project path="device/motorola/athene" name="motoG4-Development/device_motorola_athene" remote="github" revision="n71" />
   <project path="device/motorola/condor" name="CyanogenMod/android_device_motorola_condor" />
   <project path="device/motorola/falcon" name="device_motorola_falcon" remote="vanir" />
+  <project path="device/motorola/lux" name="CyanogenMod/android_device_motorola_lux" />
   <project path="device/motorola/maserati" name="CyanogenMod/android_device_motorola_maserati" />
   <project path="device/motorola/msm8916-common" name="device_motorola_msm8916-common" remote="vanir" />
   <project path="device/motorola/msm8226-common" name="device_motorola_msm8226-common" remote="vanir" />
@@ -108,6 +110,8 @@
   <project path="device/sony/yuga" name="device_sony_yuga" remote="vanir" />
   <project path="device/xiaomi/armani" name="device_xiaomi_armani" remote="vanir" />
   <project path="device/xiaomi/cancro" name="device_xiaomi_cancro" remote="vanir" />
+  <project path="device/yu/lettuce" name="device_yu_lettuce" remote="vanir" />
+  <project path="device/yu/tomato" name="CyanogenMod/android_device_yu_tomato" />
 
   <project path="packages/resources/devicesettings" name="CyanogenMod/android_packages_resources_devicesettings" device="samsungdoze" />
 
