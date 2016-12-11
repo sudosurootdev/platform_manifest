@@ -25,6 +25,7 @@
   <project path="device/htc/msm8974-common" name="CyanogenMod/android_device_htc_msm8974-common" />
   <project path="device/htc/s4-common" name="device_htc_s4-common" remote="vanir" />
   <project path="device/huawei/angler" name="device_huawei_angler" remote="vanir" />
+  <project path="device/huawei/kiwi" name="CyanogenMod/android_device_huawei_kiwi" />
   <project path="device/lge/bullhead" name="device_lge_bullhead" remote="vanir" />
   <project path="device/lge/d800" name="device_lge_d800" remote="vanir" />
   <project path="device/lge/d801" name="device_lge_d801" remote="vanir" />
@@ -44,6 +45,7 @@
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="vanir" />
   <project path="device/lge/ls980" name="device_lge_ls980" remote="vanir" />
   <project path="device/lge/ls990" name="CyanogenMod/android_device_lge_ls990" />
+  <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" />
   <project path="device/lge/vs980" name="device_lge_vs980" remote="vanir" />
   <project path="device/lge/vs985" name="device_lge_vs985" remote="vanir" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="vanir" />
@@ -113,6 +115,7 @@
   <project path="device/yu/lettuce" name="device_yu_lettuce" remote="vanir" />
   <project path="device/yu/tomato" name="CyanogenMod/android_device_yu_tomato" />
 
+  <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" device="kiwi" />
   <project path="packages/resources/devicesettings" name="CyanogenMod/android_packages_resources_devicesettings" device="samsungdoze" />
 
   <project path="vendor/nxp-nfc/opensource/frameworks" name="CyanogenMod/android_vendor_nxp-nfc_opensource_frameworks" device="oneplus3" />
