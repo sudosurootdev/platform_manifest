@@ -78,7 +78,6 @@
 
   <project path="development" name="development" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
   <project path="external/libnfc-nci" name="external_libnfc-nci" groups="pdk" remote="vanir" />
-  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" remote="aosp" />
   <project path="external/lzma" name="external_lzma" groups="pdk" remote="vanir" />
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/chips" name="frameworks_opt_chips" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
@@ -155,7 +154,6 @@
   <project path="external/ant-wireless/ant_native" name="CyanogenMod/android_external_ant-wireless_ant_native" />
   <project path="external/ant-wireless/ant_service" name="CyanogenMod/android_external_ant-wireless_ant_service" />
   <project path="external/ant-wireless/antradio-library" name="CyanogenMod/android_external_ant-wireless_antradio-library" />
-  <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" groups="pdk" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/brctl" name="CyanogenMod/android_external_brctl" />
   <project path="external/busybox" name="external_busybox" remote="vanir" />
@@ -175,7 +173,6 @@
   <project path="external/google" name="CyanogenMod/android_external_google" />
   <project path="external/gson" name="CyanogenMod/android_external_gson" />
   <project path="external/htop" name="CyanogenMod/android_external_htop" />
-  <project path="external/iptables" name="CyanogenMod/android_external_iptables" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/jarjar" name="platform/external/jarjar" groups="pdk" remote="aosp" />
   <project path="external/json-c" name="CyanogenMod/android_external_json-c" />
   <project path="external/jsr305" name="platform/external/jsr305" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -190,10 +187,7 @@
   <project path="external/libtar" name="CyanogenMod/android_external_libtar" />
   <project path="external/libusb" name="platform/external/libusb" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/libvterm" name="CyanogenMod/android_external_libvterm" groups="pdk-cw-fs,pdk-fs" />
-  <project path="external/libxml2" name="CyanogenMod/android_external_libxml2" groups="pdk-cw-fs,pdk-fs,libxml2" />
   <project path="external/libtruezip" name="CyanogenMod/android_external_libtruezip" />
-  <project path="external/lz4" name="CyanogenMod/android_external_lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/mksh" name="CyanogenMod/android_external_mksh" groups="pdk" />
   <project path="external/nano" name="CyanogenMod/android_external_nano" />
@@ -327,6 +321,7 @@
   <project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-commons-math" name="platform/external/apache-commons-math" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
+  <project path="external/apache-http" name="platform/external/apache-http" groups="pdk" remote="aosp" />
   <project path="external/apache-xml" name="platform/external/apache-xml" groups="pdk" remote="aosp" />
   <project path="external/archive-patcher" name="platform/external/archive-patcher" groups="pdk" remote="aosp" />
   <project path="external/autotest" name="platform/external/autotest" remote="aosp" />
@@ -395,8 +390,9 @@
   <project path="external/ImageMagick" name="platform/external/ImageMagick" groups="pdk" remote="aosp" />
   <project path="external/ims" name="platform/external/ims" groups="pdk" remote="aosp" />
   <project path="external/icu" name="CyanogenMod/android_external_icu" groups="pdk" />
-  <project path="external/iproute2" name="CyanogenMod/android_external_iproute2" groups="pdk" />
+  <project path="external/iproute2" name="platform/external/iproute2" groups="pdk" remote="aosp" />
   <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/iptables" name="platform/external/iptables" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/iputils" name="platform/external/iputils" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/iw" name="platform/external/iw" remote="aosp" />
   <project path="external/jacoco" name="platform/external/jacoco" remote="aosp" />
@@ -429,7 +425,7 @@
   <project path="external/libexif" name="platform/external/libexif" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libgdx" name="platform/external/libgdx" groups="pdk" remote="aosp" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" remote="aosp" />
-  <project path="external/libhevc" name="CyanogenMod/android_external_libhevc" groups="pdk-fs" />
+  <project path="external/libhevc" name="platform/external/libhevc" groups="pdk-fs" remote="aosp" />
   <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" groups="pdk" remote="aosp" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" />
   <project path="external/libmicrohttpd" name="platform/external/libmicrohttpd" remote="aosp" />
@@ -446,12 +442,17 @@
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libvncserver" name="platform/external/libvncserver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
+  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" remote="aosp" />
+  <project path="external/libvterm" name="platform/external/libvterm" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libweave" name="platform/external/libweave" remote="aosp" />
+  <project path="external/libxml2" name="platform/external/libxml2" groups="pdk-cw-fs,pdk-fs,libxml2" remote="aosp" />
   <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv,pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/littlemock" name="platform/external/littlemock" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/lld" name="platform/external/lld" groups="pdk-fs" remote="aosp" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="aosp" />
   <project path="external/ltrace" name="platform/external/ltrace" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
+  <project path="external/lz4" name="platform/external/lz4" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
+  <project path="external/lzma" name="platform/external/lzma" groups="pdk" remote="aosp" />
   <project path="external/markdown" name="platform/external/markdown" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" remote="aosp" />
   <project path="external/mesa3d" name="platform/external/mesa3d" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
