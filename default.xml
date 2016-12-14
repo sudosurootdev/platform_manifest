@@ -187,7 +187,7 @@
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" groups="pdk" />
   <project path="external/libnfnetlink" name="CyanogenMod/android_external_libnfnetlink" />
   <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" />
-  <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" groups="pdk" />
+  <project path="external/libselinux" name="external_libselinux" groups="pdk" remote="vanir" />
   <project path="external/libtar" name="CyanogenMod/android_external_libtar" />
   <project path="external/libusb" name="platform/external/libusb" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
