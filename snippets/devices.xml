@@ -105,7 +105,6 @@
 <!--  project path="device/sony/amami" name="CyanogenMod/android_device_sony_amami" /> -->
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" />
   <project path="device/sony/fusion3-common" name="device_sony_fusion3-common" remote="vanir" />
-  <project path="device/sony/nicki" name="CyanogenMod/android_device_sony_nicki" />
   <project path="device/sony/pollux" name="device_sony_pollux" remote="vanir" />
   <project path="device/sony/pollux-common" name="CyanogenMod/android_device_sony_pollux-common" groups="device" />
   <project path="device/sony/pollux_windy" name="CyanogenMod/android_device_sony_pollux_windy" />
