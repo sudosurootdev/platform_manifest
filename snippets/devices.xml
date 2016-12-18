@@ -105,13 +105,10 @@
 <!--  project path="device/sony/amami" name="CyanogenMod/android_device_sony_amami" /> -->
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" />
   <project path="device/sony/fusion3-common" name="device_sony_fusion3-common" remote="vanir" />
-  <project path="device/sony/togari" name="CyanogenMod/android_device_sony_togari" />
+  <project path="device/sony/nicki" name="CyanogenMod/android_device_sony_nicki" />
   <project path="device/sony/pollux" name="device_sony_pollux" remote="vanir" />
   <project path="device/sony/pollux-common" name="CyanogenMod/android_device_sony_pollux-common" groups="device" />
   <project path="device/sony/pollux_windy" name="CyanogenMod/android_device_sony_pollux_windy" />
-  <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" />
-  <project path="device/sony/togari" name="CyanogenMod/android_device_sony_togari" />
-  <project path="device/sony/togari_gpe" name="CyanogenMod/android_device_sony_togari_gpe" />
   <project path="device/sony/yuga" name="device_sony_yuga" remote="vanir" />
   <project path="device/xiaomi/armani" name="device_xiaomi_armani" remote="vanir" />
   <project path="device/xiaomi/cancro" name="device_xiaomi_cancro" remote="vanir" />
@@ -129,10 +126,6 @@
   <project path="hardware/samsung_slsi-cm/exynos5" name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos5" /> <!-- noble -->
   <project path="hardware/samsung_slsi-cm/exynos7420" name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos7420" /> <!-- noble -->
   <project path="hardware/samsung_slsi-cm/openmax" name="CyanogenMod/android_hardware_samsung_slsi-cm_openmax" /> <!-- noble -->
-
-  <project path="hardware/qcom/audio-bfam" name="CyanogenMod/android_hardware_qcom_audio-bfam" /> <!-- togari -->
-  <project path="hardware/qcom/display-mds" name="CyanogenMod/android_hardware_qcom_display-mds" /> <!-- togari -->
-  <project path="hardware/qcom/media-v4l2" name="CyanogenMod/android_hardware_qcom_media-v4l2" /> <!-- togari -->
 
   <project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" />
   <project path="hardware/sony/timekeep" name="CyanogenMod/android_hardware_sony_timekeep" /> <!-- g4 -->
