@@ -90,6 +90,8 @@
   <project path="device/samsung/jfltexx" name="device_samsung_jfltexx" remote="vanir" />
   <project path="device/samsung/klte" name="device_samsung_klte" remote="vanir" />
   <project path="device/samsung/klte-common" name="device_samsung_klte-common" remote="vanir" />
+  <project path="device/samsung/kltedv" name="CyanogenMod/android_device_samsung_kltedv" />
+  <project path="device/samsung/kltespr" name="CyanogenMod/android_device_samsung_kltespr" />
   <project path="device/samsung/kltevzw" name="device_samsung_kltevzw" remote="vanir" />
   <project path="device/samsung/kona-common" name="device_samsung_kona-common" remote="vanir" />
   <project path="device/samsung/manta" name="device_samsung_manta" remote="vanir" groups="device" />
