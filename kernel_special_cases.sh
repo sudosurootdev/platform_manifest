@@ -21,11 +21,6 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
-    find5)
-        export remote="vanir"
-        export remoterevision="n71"
-        export kernelsource="kernel_oppo_n1"
-    ;;
     fugu)
         export remote="vanir"
         export remoterevision="n71"
