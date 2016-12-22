@@ -37,11 +37,6 @@ case $1 in
         export kernelsource="Grarak/android_kernel_oneplus_msm8994"
         export remoterevision="cm-14.1"
     ;;
-    oneplus3t)
-        export remote="github"
-        export kernelsource="mj1687/android_kernel_oneplus_msm8996"
-        export remoterevision="nougat7.1"
-    ;;
     shamu)
         export remote="vanir"
         export remoterevision="n71"
