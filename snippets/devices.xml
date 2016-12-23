@@ -44,7 +44,7 @@
   <project path="device/lge/ls980" name="device_lge_ls980" remote="vanir" />
   <project path="device/lge/ls990" name="CyanogenMod/android_device_lge_ls990" />
   <project path="device/lge/mako" name="CyanogenMod/android_device_lge_mako" />
-  <project path="device/lge/v20-common" name="CyanogenMod/android_device_lge_v20-common" />
+  <project path="device/lge/v20-common" name="device_lge_v20-common" remote="vanir" />
   <project path="device/lge/vs980" name="device_lge_vs980" remote="vanir" />
   <project path="device/lge/vs985" name="device_lge_vs985" remote="vanir" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="vanir" />
