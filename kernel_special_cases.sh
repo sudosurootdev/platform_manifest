@@ -32,6 +32,11 @@ case $1 in
     mako)
         export kernelsource="lge-kernel-mako"
     ;;
+    marlin|sailfish)
+        export remote="github"
+        export kernelsource="DirtyUnicorns/android_kernel_google_pixel"
+        export remoterevision="n7x"
+    ;;
     oneplus2)
         export remote="github"
         export kernelsource="Grarak/android_kernel_oneplus_msm8994"

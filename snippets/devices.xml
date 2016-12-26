@@ -4,6 +4,9 @@
   <project path="device/asus/flo" name="device_asus_flo" remote="vanir" />
   <project path="device/asus/fugu" name="device_asus_fugu" remote="vanir"/>
   <project path="device/cyanogen/msm8916-common" name="CyanogenMod/android_device_cyanogen_msm8916-common"/>
+  <project path="device/google/contexthub" name="DirtyUnicorns/android_device_google_contexthub" remote="github" revision="n7x" />
+  <project path="device/google/marlin" name="DirtyUnicorns/android_device_google_marlin" remote="github" revision="n7x" />
+  <project path="device/google/sailfish" name="DirtyUnicorns/android_device_google_sailfish" remote="github" revision="n7x" />
   <project path="device/htc/flounder" name="device_htc_flounder" remote="vanir"/>
   <project path="device/htc/hiae-common" name="CyanogenMod/android_device_htc_hiae-common" />
   <project path="device/htc/hiaeul" name="CyanogenMod/android_device_htc_hiaeul" />
@@ -49,7 +52,7 @@
   <project path="device/lge/vs980" name="device_lge_vs980" remote="vanir" />
   <project path="device/lge/vs985" name="device_lge_vs985" remote="vanir" />
   <project path="device/moto/shamu" name="device_moto_shamu" remote="vanir" />
-  <project path="device/motorola/athene" name="CyanogenMod/android_device_motorola_athene" remote="github" revision="cm-14.1" />
+  <project path="device/motorola/athene" name="CyanogenMod/android_device_motorola_athene" />
   <project path="device/motorola/clark" name="CyanogenMod/android_device_motorola_clark" />
   <project path="device/motorola/condor" name="CyanogenMod/android_device_motorola_condor" />
   <project path="device/motorola/falcon" name="device_motorola_falcon" remote="vanir" />
