@@ -4,7 +4,7 @@
   <project path="device/asus/flo" name="device_asus_flo" remote="vanir" />
   <project path="device/asus/fugu" name="device_asus_fugu" remote="vanir"/>
   <project path="device/cyanogen/msm8916-common" name="CyanogenMod/android_device_cyanogen_msm8916-common"/>
-  <project path="device/google/marlin" name="DirtyUnicorns/android_device_google_marlin" remote="github" revision="n7x" />
+  <project path="device/google/marlin" name="device_google_marlin" remote="vanir" />
   <project path="device/google/sailfish" name="DirtyUnicorns/android_device_google_sailfish" remote="github" revision="n7x" />
   <project path="device/htc/flounder" name="device_htc_flounder" remote="vanir"/>
   <project path="device/htc/hiae-common" name="CyanogenMod/android_device_htc_hiae-common" />
