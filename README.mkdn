@@ -1,7 +1,7 @@
 Team Vanir's repo
 ===========
 
-This branch is for Vanir's M6 branch, our android-7.1.0 based ROM
+This branch is for Vanir's N71 branch, our android-7.1.0 based ROM
 
 Additional dependencies:
   automake autoconf optipng lzop
