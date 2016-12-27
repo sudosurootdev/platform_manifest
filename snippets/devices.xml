@@ -19,7 +19,6 @@
   <project path="device/htc/m7vzw" name="device_htc_m7vzw" remote="vanir" />
   <project path="device/htc/m8" name="device_htc_m8" remote="vanir" />
   <project path="device/htc/m8-common" name="LineageOS/android_device_htc_m8-common" />
-  <project path="device/htc/m8dug" name="CyanogenMod/android_device_htc_m8dug" remote="github" />
   <project path="device/htc/msm8960-common" name="device_htc_msm8960-common" remote="vanir" />
   <project path="device/htc/msm8974-common" name="LineageOS/android_device_htc_msm8974-common" />
   <project path="device/htc/pme" name="LineageOS/android_device_htc_pme" />
