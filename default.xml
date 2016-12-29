@@ -64,7 +64,6 @@
   <project path="packages/apps/IndecentXposure" name="packages_apps_IndecentXposure" remote="vanir" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="vanir" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vanir" />
-  <project path="packages/apps/SoundRecorder" name="packages_apps_soundrecorder" remote="vanir" />
   <project path="packages/apps/ThemeChooser" name="packages_apps_ThemeChooser" remote="vanir" />
   <project path="packages/apps/UnifiedEmail" name="packages_apps_UnifiedEmail" groups="pdk-fs" remote="vanir" />
   <project path="packages/apps/VanirUpdater" name="packages_apps_VanirUpdater" remote="vanir" />
@@ -254,7 +253,7 @@
   <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/SafetyRegulatoryInfo" name="platform/packages/apps/SafetyRegulatoryInfo" remote="aosp" />
-  <project path="packages/apps/Screencast" name="LineageOS/android_packages_apps_Screencast" />
+  <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" />
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
   <project path="packages/apps/Terminal" name="LineageOS/android_packages_apps_Terminal" groups="pdk-fs" />
   <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="vanir" />
