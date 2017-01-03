@@ -131,7 +131,7 @@
   <project path="system/extras" name="system_extras" groups="pdk" remote="vanir" />
   <project path="system/media" name="system_media" groups="pdk" remote="vanir" />
   <project path="system/security" name="system_security" groups="pdk" remote="vanir" />
-  <project path="vendor/cmsdk" name="/vendor_cmsdk" remote="vanir" />
+  <project path="vendor/cmsdk" name="vendor_cmsdk" remote="vanir" />
 
   <include name="snippets/vendors.xml" />
 
