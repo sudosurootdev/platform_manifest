@@ -21,9 +21,6 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
-    lettuce|tomato)
-        export remoterevision="cm-14.1-lettuce"
-    ;;
     mako)
         export kernelsource="lge-kernel-mako"
     ;;
