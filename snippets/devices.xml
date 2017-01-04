@@ -76,7 +76,7 @@
   <project path="device/qcom/common" name="device_qcom_common" remote="vanir" />
   <project path="device/samsung/d2-common" name="LineageOS/android_device_samsung_d2-common" groups="GS3_device" />
   <project path="device/samsung/d2att" name="LineageOS/android_device_samsung_d2att" groups="GS3_device" />
-  <project path="device/samsung/d2spr" name="device_samsung_d2spr" remote="vanir" groups="GS3_device" />
+  <project path="device/samsung/d2spr" name="LineageOS/android_device_samsung_d2spr" groups="GS3_device" />
   <project path="device/samsung/d2vzw" name="LineageOS/android_device_samsung_d2vzw" groups="GS3_device" />
   <project path="device/samsung/i9100" name="LineageOS/android_device_samsung_i9100" groups="i900" />
   <project path="device/samsung/jf-common" name="device_samsung_jf-common" remote="vanir" />
