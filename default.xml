@@ -34,7 +34,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="tools/BUILD_COMMAND_README" dest="BUILD_COMMAND_README" />
   </project>
-  <project path="build/kati" name="LineageOS/android_build_kati" groups="pdk,tradefed" />j
+  <project path="build/kati" name="build_kati" groups="pdk,tradefed" remote="vanir"/>
   <project path="art" name="art" remote="vanir" />
   <project path="bionic" name="bionic" remote="vanir" groups="pdk" />
   <project path="bootable" name="bootable" groups="pdk" remote="vanir" />
