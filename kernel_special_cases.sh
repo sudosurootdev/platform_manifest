@@ -21,11 +21,6 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
-    fugu)
-        export remote="vanir"
-        export remoterevision="n71"
-        export kernelsource="kernel_asus_fugu"
-    ;;
     lettuce|tomato)
         export remoterevision="cm-14.1-lettuce"
     ;;

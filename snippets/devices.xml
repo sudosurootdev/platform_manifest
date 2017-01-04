@@ -2,7 +2,6 @@
 <manifest>
   <project path="device/asus/deb" name="device_asus_deb" remote="vanir" />
   <project path="device/asus/flo" name="device_asus_flo" remote="vanir" />
-  <project path="device/asus/fugu" name="device_asus_fugu" remote="vanir"/>
   <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common"/>
   <project path="device/google/marlin" name="device_google_marlin" remote="vanir" />
   <project path="device/google/sailfish" name="DirtyUnicorns/android_device_google_sailfish" remote="github" revision="n7x" />
