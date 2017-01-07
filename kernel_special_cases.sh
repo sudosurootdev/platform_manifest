@@ -25,9 +25,8 @@ case $1 in
         export kernelsource="lge-kernel-mako"
     ;;
     marlin|sailfish)
-        export remote="github"
-        export kernelsource="DirtyUnicorns/android_kernel_google_pixel"
-        export remoterevision="n7x"
+        export remote="vanir"
+        export remoterevision="n71"
     ;;
     oneplus2)
         export remote="github"
