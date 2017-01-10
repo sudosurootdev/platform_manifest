@@ -2,7 +2,6 @@
 <manifest>
   <project path="vendor/asus" name="vendor_asus" remote="vanir" groups="vendor" />
   <project path="vendor/commotio" name="commotio" remote="commotio" groups="vendor" />
-  <project path="vendor/google" name="vendor_google" remote="vanir" />
   <project path="vendor/htc" name="vendor_htc" remote="vanir" />
   <project path="vendor/huawei" name="vendor_huawei" remote="vanir" />
   <project path="vendor/lge" name="vendor_lge" remote="vanir" />
@@ -15,6 +14,7 @@
   <!-- Muppets -->
   <project path="vendor/audience" name="TheMuppets/proprietary_vendor_audience" remote="github" revision="cm-14.1" />
   <project path="vendor/broadcom" name="TheMuppets/proprietary_vendor_broadcom" remote="github" revision="cm-14.1" />
+  <project path="vendor/google" name="TheMuppets/proprietary_vendor_google" remote="github" revision="cm-14.1" />
   <project path="vendor/invensense" name="TheMuppets/proprietary_vendor_invensense" remote="github" revision="cm-14.1" />
   <project path="vendor/nxp" name="TheMuppets/proprietary_vendor_nxp" remote="github" revision="cm-14.1" />
   <project path="vendor/oneplus" name="TheMuppets/proprietary_vendor_oneplus" remote="github" revision="cm-14.1" />
