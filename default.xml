@@ -100,7 +100,7 @@
   <project path="hardware/qcom/keymaster" name="hardware_qcom_keymaster" groups="qcom,qcom_keymaster" remote="vanir" />
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" groups="qcom_wlan" remote="vanir" />
   <project path="libcore" name="libcore" groups="pdk" remote="vanir" />
-  <project path="packages/apps/BasicSmsReceiver" name="packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" remote="vanir" />
+  <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" groups="pdk-fs" remote="vanir" />
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" groups="pdk-fs" remote="vanir" />
   <project path="packages/apps/CellBroadcastReceiver" name="packages_apps_CellBroadcastReceiver" groups="pdk-fs" remote="vanir" />
