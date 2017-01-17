@@ -279,7 +279,7 @@
   <project path="packages/themes/HexoLibre" name="LineageOS/android_packages_themes_HexoLibre" groups="themes" />
 <!--  <project path="packages/wallpapers/Galaxy4" name="LineageOS/android_packages_wallpapers_Galaxy4" groups="pdk-fs" />-->
 <!--  <project path="packages/wallpapers/PhotoPhase" name="LineageOS/android_packages_wallpapers_PhotoPhase" />-->
-  <project path="prebuilts/cmsdk" name="prebuilts_cmsdk" clone-depth="1" remote="vanir" />
+  <project path="prebuilts/cmsdk" name="prebuilts_cmsdk" remote="vanir" />
   <project path="system/keymaster" name="LineageOS/android_system_keymaster" groups="pdk" />
   <project path="system/qcom" name="LineageOS/android_system_qcom" groups="qcom" />
   <project path="vendor/qcom/opensource/dpm" name="LineageOS/android_vendor_qcom_opensource_dpm" />
