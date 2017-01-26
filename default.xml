@@ -166,7 +166,7 @@
   <project path="external/elfutils" name="LineageOS/android_external_elfutils" groups="pdk" />
   <project path="external/exfat" name="LineageOS/android_external_exfat" />
   <project path="external/f2fs-tools" name="LineageOS/android_external_f2fs-tools" groups="pdk" />
-  <project path="external/ffmpeg" name="LineageOS/android_external_ffmpeg" />
+  <project path="external/ffmpeg" name="external_ffmpeg" remote="vanir" />
   <project path="external/fsck_msdos" name="LineageOS/android_external_fsck_msdos" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/fuse" name="LineageOS/android_external_fuse" />
   <project path="external/gello-build" name="LineageOS/android_external_gello_build" />
