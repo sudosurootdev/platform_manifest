@@ -10,6 +10,7 @@
   <project path="vendor/samsung" name="vendor_samsung" remote="vanir" groups="vendor" />
   <project path="vendor/sony" name="vendor_sony" remote="vanir" groups="vendor" />
   <project path="vendor/vanir" name="vendor_vanir" remote="vanir" groups="vendor" />
+  <project path="vendor/xiaomi" name="vendor_xiaomi" remote="vanir" />
 
   <!-- Muppets -->
   <project path="vendor/audience" name="TheMuppets/proprietary_vendor_audience" remote="github" revision="cm-14.1" />
@@ -21,7 +22,6 @@
   <project path="vendor/oppo" name="TheMuppets/proprietary_vendor_oppo" remote="github" revision="cm-14.1" />
   <project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
   <project path="vendor/widevine" name="TheMuppets/proprietary_vendor_widevine" remote="github" revision="cm-14.1" />
-  <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
   <project path="vendor/yu" name="TheMuppets/proprietary_vendor_yu" remote="github" revision="cm-14.1" />
 
   <!-- Others -->
