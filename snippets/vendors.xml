@@ -24,7 +24,4 @@
   <project path="vendor/widevine" name="TheMuppets/proprietary_vendor_widevine" remote="github" revision="cm-14.1" />
   <project path="vendor/yu" name="TheMuppets/proprietary_vendor_yu" remote="github" revision="cm-14.1" />
 
-  <!-- Others -->
-  <project path="vendor/motorola/athene" name="boulzordev/proprietary_vendor_motorola_athene" remote="github" revision="cm-14.1" />
-
 </manifest>
