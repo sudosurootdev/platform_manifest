@@ -281,6 +281,7 @@
   <project path="system/qcom" name="LineageOS/android_system_qcom" groups="qcom" />
   <project path="vendor/qcom/opensource/dpm" name="LineageOS/android_vendor_qcom_opensource_dpm" />
   <project path="vendor/qcom/opensource/time-services" name="LineageOS/android_vendor_qcom_opensource_time-services" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
 
 <!-- CMSDK SAMPLES -->
   <project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
