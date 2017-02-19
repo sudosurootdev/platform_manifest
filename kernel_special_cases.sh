@@ -8,8 +8,8 @@ export remoterevision="cm-14.1"
 case $1 in
     amami)
         export remote="github"
-        export remoterevision="aosp/LA.BR.1.3.3_rb2.14"
-        export kernelsource="sonyxperiadev/kernel"
+        export remoterevision="AICP-n7.1-sony"
+        export kernelsource="SpiritCroc/android_kernel_sony_msm"
     ;;
     angler)
         export remote="vanir"
