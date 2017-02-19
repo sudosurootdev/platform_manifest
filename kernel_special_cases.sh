@@ -6,6 +6,11 @@ export remote="cmold"
 export remoterevision="cm-14.1"
 
 case $1 in
+    amami)
+        export remote="github"
+        export remoterevision="aosp/LA.BR.1.3.3_rb2.14"
+        export kernelsource="sonyxperiadev/kernel"
+    ;;
     angler)
         export remote="vanir"
         export remoterevision="n71"

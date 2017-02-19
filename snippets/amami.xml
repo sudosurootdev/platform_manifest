@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Taint potential is great, for now use a snippet to add this electic device --> 
+<!-- Add like a localmanifest --> 
+
+
+  <project path="device/sony/amami" name="AICP/device_sony_amami" remote="github" revision="n7.0" />
+  <project path="device/sony/common-init" name="sonyxperiadev/device-sony-common-init" remote="github" revision="master" groups="amami" />
+  <project path="device/sony/rhine-common" name="AICP/device_sony_rhine-common" remote="github" revision="n7.0" groups="amami" />
+  <project path="device/sony/sepolicy" name="sonyxperiadev/sonyxperiadev/device-sony-sepolicy" remote="github" revision="n-mr0" groups="amami" />
+
+  <project path="hardware/sony/camera" name="SpiritCroc/android_hardware_sony_camera" remote="github" revision="AICP-n7.0-sonycm" groups="amami" />
+  <project path="hardware/sony/display" name="android_hardware_sony_display" remote="github" revision="AICP-n7.0-sonycm" groups="amami" />
+  <project path="hardware/sony/macaddrsetup" name="sonyxperiadev/macaddrsetup" remote="github" revision="master" groups="amami" />
+
+  <project path="packages/apps/ExtendedSettings" name="SpiritCroc/android_packages_apps_ExtendedSettings" remote="github" revision="AICP-n7.0-sony" groups="amami" />
+
+  <project path="vendor/qcom/extras" name="SpiritCroc/android_vendor_qcom_extras" remote="github" revision="aosp-7.0" groups="amami" />
+  <project path="vendor/qcom/firmware" name="SpiritCroc/android_vendor_qcom_firmware" remote="github" revision="aosp-7.0" groups="amami" />
+  <project path="vendor/qcom/prebuilt" name="SpiritCroc/android_vendor_qcom_prebuilt" remote="github" revision="aosp-7.0" groups="amami" />
+
+</manifest>
