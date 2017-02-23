@@ -165,7 +165,7 @@
   <project path="external/ffmpeg" name="external_ffmpeg" remote="vanir" />
   <project path="external/fsck_msdos" name="LineageOS/android_external_fsck_msdos" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/fuse" name="LineageOS/android_external_fuse" />
-  <project path="external/gello-build" name="invisiblek/android_external_gello_build" revision="cm-14.1_android-7.1.1_r21" />
+  <project path="external/gello-build" name="LineageOs/Android_external_gello_build" />
   <project path="external/gson" name="LineageOS/android_external_gson" />
   <project path="external/htop" name="LineageOS/android_external_htop" />
   <project path="external/jarjar" name="platform/external/jarjar" groups="pdk" remote="aosp" />
