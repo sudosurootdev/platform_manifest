@@ -80,6 +80,7 @@
   <project path="device/samsung/d2spr" name="LineageOS/android_device_samsung_d2spr" groups="GS3_device" />
   <project path="device/samsung/d2vzw" name="LineageOS/android_device_samsung_d2vzw" groups="GS3_device" />
   <project path="device/samsung/jf-common" name="device_samsung_jf-common" remote="vanir" />
+  <project path="device/samsung/i9300" name="LineageOS/android_device_samsung_i9300" />
   <project path="device/samsung/jflteatt" name="LineageOS/android_device_samsung_jflteatt" />
   <project path="device/samsung/jfltespr" name="device_samsung_jfltespr" remote="vanir" />
   <project path="device/samsung/jfltetmo" name="LineageOS/android_device_samsung_jfltetmo" />
