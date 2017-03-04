@@ -81,7 +81,7 @@
   <project path="device/samsung/d2vzw" name="LineageOS/android_device_samsung_d2vzw" groups="GS3_device" />
   <project path="device/samsung/jf-common" name="device_samsung_jf-common" remote="vanir" />
   <project path="device/samsung/jflteatt" name="LineageOS/android_device_samsung_jflteatt" />
-  <project path="device/samsung/jfltespr" name="LineageOS/android_device_samsung_jfltespr" />
+  <project path="device/samsung/jfltespr" name="device_samsung_jfltespr" remote="vanir" />
   <project path="device/samsung/jfltetmo" name="LineageOS/android_device_samsung_jfltetmo" />
   <project path="device/samsung/jflteusc" name="LineageOS/android_device_samsung_jflteusc" revision="cm-14.0" />
   <project path="device/samsung/jfltevzw" name="LineageOS/android_device_samsung_jfltevzw" />
