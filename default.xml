@@ -609,4 +609,7 @@
   <project path="toolchain/binutils" name="toolchain/binutils" remote="aosp" />
 <!-- AOSP -->
 
+ <!-- Substratum OMS additions -->
+ <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
+
 </manifest>
