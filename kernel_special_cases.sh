@@ -26,11 +26,6 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
-    libra)
-        export remote="github"
-        export remoterevision="RR-7.1"
-        export kernelsource="AndropaX/android_kernel_xiaomi_msm8992"
-    ;;
     mako)
         export kernelsource="lge-kernel-mako"
     ;;
