@@ -26,6 +26,10 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
+    libra)
+        export remote="vanir"
+        export kernelsource="kernel_xiaomi_msm8992"
+    ;;
     mako)
         export kernelsource="lge-kernel-mako"
     ;;
