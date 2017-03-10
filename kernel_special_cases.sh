@@ -28,6 +28,7 @@ case $1 in
     ;;
     libra)
         export remote="vanir"
+        export remoterevision="n71"
         export kernelsource="kernel_xiaomi_msm8992"
     ;;
     mako)
