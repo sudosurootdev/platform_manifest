@@ -611,6 +611,5 @@
 
  <!-- Substratum OMS additions -->
  <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
- <project path="frameworks/base/aopt" name="Surge1223/android_frameworks_base_aopt" remote="github" revision="android-7.1" />
 
 </manifest>
