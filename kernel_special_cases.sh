@@ -17,9 +17,9 @@ case $1 in
         export kernelsource="kernel_huawei_angler"
     ;;
     athene)
-        export remote="github"
-        export remoterevision="cm-14.1"
-        export kernelsource="LineageOS/android_kernel_motorola_msm8952"
+        export remote="vanir"
+        export remoterevision="n71"
+        export kernelsource="kernel_motorola_msm8952"
     ;;
     d800|d801|d802|d803|f320|ls980|vs980)
         export remote="vanir"
