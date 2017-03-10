@@ -37,7 +37,7 @@
   <project path="device/lge/f400" name="device_lge_f400" remote="vanir" />
   <project path="device/lge/g2-common" name="device_lge_g2-common" remote="vanir" />
   <project path="device/lge/g3-common" name="device_lge_g3-common" remote="vanir" />
-  <project path="device/lge/g4-common" name="LineageOS/android_device_lge_g4-common" />
+  <project path="device/lge/g4-common" name="device_lge_g4-common" remote="vanir" />
   <project path="device/lge/h811" name="LineageOS/android_device_lge_h811" />
   <project path="device/lge/h815" name="LineageOS/android_device_lge_h815" />
   <project path="device/lge/h918" name="LineageOS/android_device_lge_h918" />
