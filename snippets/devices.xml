@@ -117,7 +117,7 @@
   <project path="device/xiaomi/libra" name="device_xiaomi_libra" remote="vanir" />
   <project path="device/xiaomi/msm8956-common" name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project path="device/yu/lettuce" name="device_yu_lettuce" remote="vanir" />
-  <project path="device/yu/tomato" name="LineageOS/android_device_yu_tomato" />
+  <project path="device/yu/tomato" name="device_yu_tomato" remote="vanir" />
 
 
   <!-- Device specific repos -->
