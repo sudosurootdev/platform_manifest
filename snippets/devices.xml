@@ -29,7 +29,7 @@
   <project path="device/lge/d801" name="device_lge_d801" remote="vanir" />
   <project path="device/lge/d802" name="device_lge_d802" remote="vanir" />
   <project path="device/lge/d803" name="device_lge_d803" remote="vanir" />
-<!--  <project path="device/lge/d850" name="LineageOS/android_device_lge_d850" /> -->
+  <project path="device/lge/d850" name="LineageOS/android_device_lge_d850" />
   <project path="device/lge/d851" name="LineageOS/android_device_lge_d851" />
   <project path="device/lge/d852" name="LineageOS/android_device_lge_d852" />
   <project path="device/lge/d855" name="LineageOS/android_device_lge_d855" />
