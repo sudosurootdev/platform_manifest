@@ -42,6 +42,7 @@
   <project path="bootable/recovery-aosp" name="platform/bootable/recovery" groups="pdk" remote="aosp" />
   <project path="bootable/recovery-twrp" name="bootable_recovery_twrp" groups="pdk" remote="vanir" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="vanir" />
+  <project path="external/ahbottomnavigation" name="LineageOS/android_external_ahbottomnavigation" />
   <project path="external/boringssl" name="external_boringssl" groups="pdk" remote="vanir"  />
   <project path="external/flac" name="external_flac" groups="pdk" remote="vanir" />
   <project path="external/klogripper" name="external_klogripper" remote="vanir" />
