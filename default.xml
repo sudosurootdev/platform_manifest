@@ -38,7 +38,7 @@
   <project path="art" name="art" remote="vanir" />
   <project path="bionic" name="bionic" remote="vanir" groups="pdk" />
   <project path="bootable" name="bootable" groups="pdk" remote="vanir" />
-  <project path="bootable/recovery" name="LineageOS/android_bootable_recovery" groups="pdk" />
+  <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="vanir" />
   <project path="bootable/recovery-aosp" name="platform/bootable/recovery" groups="pdk" remote="aosp" />
   <project path="bootable/recovery-twrp" name="bootable_recovery_twrp" groups="pdk" remote="vanir" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="vanir" />
