@@ -242,7 +242,7 @@
   <project path="packages/apps/Browser" name="LineageOS/android_packages_apps_Browser" groups="pdk-fs" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" groups="pdk-fs" remote="vanir" />
   <project path="packages/apps/Exchange" name="LineageOS/android_packages_apps_Exchange" groups="pdk-fs" />
-  <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" revision="staging/cm-14.1_android-7.1.2_r2" />
+  <project path="packages/apps/EmergencyInfo" name="LineageOS/android_packages_apps_EmergencyInfo" revision="staging/cm-14.1_android-7.1.2_r2" />
   <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" />
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gello" name="LineageOS/android_packages_apps_Gello" />
@@ -558,9 +558,9 @@
   <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" remote="aosp" />
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" remote="aosp" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
-  <project path="packages/apps/StorageManager" name="android_packages_apps_StorageManager" revision="staging/cm-14.1_android-7.1.2_r2" />
+  <project path="packages/apps/StorageManager" name="LineageOS/android_packages_apps_StorageManager" revision="staging/cm-14.1_android-7.1.2_r2" />
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" remote="aosp" />
-  <project path="packages/services/Car" name="android_packages_services_Car" groups="adp8064,pdk-cw-fs,pdk-fs"  revision="staging/cm-14.1_android-7.1.2_r2" />
+  <project path="packages/services/Car" name="LineageOS/android_packages_services_Car" groups="adp8064,pdk-cw-fs,pdk-fs"  revision="staging/cm-14.1_android-7.1.2_r2" />
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" />
   <project path="platform_testing" name="platform/platform_testing" remote="aosp" />
   <project path="prebuilts/android-emulator" name="platform/prebuilts/android-emulator" groups="pdk-fs" clone-depth="1" remote="aosp" />
