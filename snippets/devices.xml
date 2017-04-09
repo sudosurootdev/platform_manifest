@@ -38,8 +38,13 @@
   <project path="device/lge/g2-common" name="device_lge_g2-common" remote="vanir" />
   <project path="device/lge/g3-common" name="device_lge_g3-common" remote="vanir" />
   <project path="device/lge/g4-common" name="device_lge_g4-common" remote="vanir" />
+  <project path="device/lge/g5-common" name="LineageOS/android_device_lge_g5-common" />
+  <project path="device/lge/g6-common" name="LineageOS/android_device_lge_g6-common" />
   <project path="device/lge/h811" name="LineageOS/android_device_lge_h811" />
   <project path="device/lge/h815" name="LineageOS/android_device_lge_h815" />
+  <project path="device/lge/h830" name="LineageOS/android_device_lge_h830" device="g5" />
+  <project path="device/lge/h850" name="LineageOS/android_device_lge_h850" device="g5" />
+  <project path="device/lge/h872" name="LineageOS/android_device_lge_h872" device="g6" />
   <project path="device/lge/h918" name="LineageOS/android_device_lge_h918" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="vanir" />
   <project path="device/lge/ls980" name="device_lge_ls980" remote="vanir" />
