@@ -38,6 +38,7 @@ case $1 in
         export remote="vanir"
         export remoterevision="n71"
         export kernelsource="kernel_google_marlin"
+        export kernellocation="kernel/google/marlin"
     ;;
     oneplus2)
         export remote="github"
