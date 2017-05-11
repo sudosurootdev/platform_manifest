@@ -166,7 +166,6 @@
   <project path="external/ffmpeg" name="external_ffmpeg" remote="vanir" />
   <project path="external/fsck_msdos" name="LineageOS/android_external_fsck_msdos" groups="pdk" />
   <project path="external/fuse" name="LineageOS/android_external_fuse" />
-  <project path="external/gello-build" name="LineageOS/android_external_gello_build" />
   <project path="external/gson" name="LineageOS/android_external_gson" />
   <project path="external/htop" name="LineageOS/android_external_htop" />
   <project path="external/jarjar" name="platform/external/jarjar" groups="pdk" remote="aosp" />
@@ -245,7 +244,6 @@
   <project path="packages/apps/EmergencyInfo" name="LineageOS/android_packages_apps_EmergencyInfo" />
   <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" />
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />
-  <project path="packages/apps/Gello" name="LineageOS/android_packages_apps_Gello" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vanir" />
   <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
