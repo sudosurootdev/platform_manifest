@@ -622,4 +622,7 @@
  <!-- Substratum OMS additions -->
  <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 
+ <!-- Pixified Launcher -->
+ <project path="packages/apps/Launcher3" name="amirzaidi/Launcher3" remote="github" revision="compat" />
+
 </manifest>
