@@ -478,7 +478,7 @@
   <project path="external/oauth" name="platform/external/oauth" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/objenesis" name="platform/external/objenesis" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/opencv" name="platform/external/opencv" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/opencv3" name="platform/external/opencv3" remote="aosp" />
+  <project path="external/opencv3" name="platform/external/opencv3" remote="aosp" revision="android-7.1.2_r17" />
   <project path="external/openfst" name="platform/external/openfst" groups="pdk" remote="aosp" />
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk-fs" remote="aosp" />
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk-fs" remote="aosp" />
