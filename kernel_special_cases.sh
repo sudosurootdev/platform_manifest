@@ -26,11 +26,6 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
-    klte*)
-        export remote="vanir"
-        export remoterevision="n71"
-        export kernelsource="kernel_samsung_klte"
-    ;;
     mako)
         export kernelsource="lge-kernel-mako"
     ;;
