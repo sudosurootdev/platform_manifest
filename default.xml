@@ -133,7 +133,7 @@
 
   <include name="snippets/vendors.xml" />
 
-  <project path="ccache" name="ccache.git" remote="samba" revision="master" />
+  <project path="ccache" name="ccache/ccache" remote="github" revision="master" />
 
   <include name="snippets/devices.xml" />
 
