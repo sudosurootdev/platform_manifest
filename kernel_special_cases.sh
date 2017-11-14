@@ -8,6 +8,10 @@ export remoterevision="cm-14.1"
 case $1 in
     amami)
         export remote="github"
+        export kernelsource="raymanfx/android_kernel_samsung_a5y17lte"
+    ;;
+    amami)
+        export remote="github"
         export remoterevision="AICP-n7.1-sony"
         export kernelsource="SpiritCroc/android_kernel_sony_msm"
     ;;
