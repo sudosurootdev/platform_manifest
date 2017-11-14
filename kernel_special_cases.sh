@@ -6,7 +6,7 @@ export remote="cmold"
 export remoterevision="cm-14.1"
 
 case $1 in
-    amami)
+    a5y17lte)
         export remote="github"
         export kernelsource="raymanfx/android_kernel_samsung_a5y17lte"
     ;;
