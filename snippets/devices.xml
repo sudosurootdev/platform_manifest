@@ -81,7 +81,7 @@
   <project path="device/oppo/msm8974-common" name="LineageOS/android_device_oppo_msm8974-common" device="BACON" />
   <project path="device/oppo/n3" name="LineageOS/android_device_oppo_n3" device="n3" />
   <project path="device/qcom/common" name="device_qcom_common" remote="vanir" />
-  <project path="device/samsung/" name="raymanfx/android_device_samsung_a5y17lte" remote="github" />
+  <project path="device/samsung/a5y17lte" name="raymanfx/android_device_samsung_a5y17lte" remote="github" />
   <project path="device/samsung/d2-common" name="LineageOS/android_device_samsung_d2-common" groups="GS3_device" />
   <project path="device/samsung/d2att" name="LineageOS/android_device_samsung_d2att" groups="GS3_device" />
   <project path="device/samsung/d2spr" name="LineageOS/android_device_samsung_d2spr" groups="GS3_device" />
