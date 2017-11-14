@@ -136,7 +136,7 @@
   <project path="hardware/samsung_slsi-cm/exynos" name="LineageOS/android_hardware_samsung_slsi-cm_exynos" /> <!-- noble -->
   <project path="hardware/samsung_slsi-cm/exynos5" name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" /> <!-- noble -->
   <project path="hardware/samsung_slsi-cm/exynos7420" name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" /> <!-- noble -->
-  <project path="hardware/samsung_slsi-cm/exynos7880" name="LineageOS/android_hardware_samsung_slsi-cm_exynos7880" /> <!-- a5y17lte -->
+  <project path="hardware/samsung_slsi-cm/exynos7880" name="raymanfx/android_hardware_samsung_slsi-cm_exynos7880" remote="github" /> <!-- a5y17lte -->
   <project path="hardware/samsung_slsi-cm/openmax" name="LineageOS/android_hardware_samsung_slsi-cm_openmax" /> <!-- noble -->
 
   <project path="hardware/sony/thermanager" name="LineageOS/android_hardware_sony_thermanager" />
