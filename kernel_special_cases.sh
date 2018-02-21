@@ -30,6 +30,11 @@ case $1 in
         export remoterevision="n71"
         export kernelsource="kernel_lge_msm8974"
     ;;
+    d850|d851|d852|d853|f400|ls990|vs985)
+	export remote="sudosurootdev"
+	export remoterevision="n71"
+	export kernelsource="kernel_lge_g3"
+    ;;
     mako)
         export kernelsource="lge-kernel-mako"
     ;;
