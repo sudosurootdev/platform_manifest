@@ -11,6 +11,7 @@
   <project path="vendor/sony" name="vendor_sony" remote="vanir" groups="vendor" />
   <project path="vendor/qcom/binaries" name="vendor_qcom_binaries" remote="vanir" />
   <project path="vendor/vanir" name="vendor_vanir" remote="vanir" groups="vendor" />
+  <project path="vendor/vanir-private" name="vendor_vanir-private" remote="sudosurootdev" groups="vendor" />
   <project path="vendor/xiaomi" name="vendor_xiaomi" remote="vanir" />
 
   <!-- Muppets -->
