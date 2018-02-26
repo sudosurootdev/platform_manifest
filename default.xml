@@ -17,7 +17,10 @@
           fetch="https://github.com/LineageOS"/>
   <remote name="cm"
           fetch="https://github.com/"
-          review="review.lineageos.com" />
+	  review="review.lineageos.com" />
+  <remote name="sudosurootdev"
+	  fetch="https://github.com/sudosurootdev/"
+	  revision="n71" />
   <remote name="github"
           fetch="https://github.com/" />
   <remote name="linaro"
@@ -29,7 +32,7 @@
           remote="cm" />
 
   <!-- Vanir -->
-  <project path="manifest" name="platform_manifest" remote="vanir" /> <!-- DO NOT MOVE - whine to Nuclearmistake -->
+  <project path="manifest" name="platform_manifest" remote="sudosurootdev" /> <!-- DO NOT MOVE - whine to Nuclearmistake -->
   <project path="build" name="build" remote="vanir" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="tools/BUILD_COMMAND_README" dest="BUILD_COMMAND_README" />
