@@ -33,6 +33,10 @@
   <remote  name="caf"
            fetch="git://codeaurora.org/quic/la" />
 
+  <remote name="sudosurootdev"
+	  fetch="https://github.com/sudosurootdev/"
+	  revision="refs/heads/8.1" />
+
   <!-- AOSP Projects -->
 
   <!--<project path="build/make" name="LineageOS/android_build" groups="pdk" >
